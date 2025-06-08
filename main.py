@@ -30,7 +30,7 @@ bot = commands.Bot(command_prefix="clone!", intents=intents)
 async def help_command(ctx):
     embed = discord.Embed(
         title="🦠 ParasiteBot Help Menu",
-        description="Your AI-powered personality parasite.\nCommands to control your clone:",
+        description="Your AI-powered personality parasite.\n https://github.com/Syntax-XXX/parasitebot \nCommands to control your clone:",
         color=discord.Color.green()
     )
 
@@ -437,7 +437,8 @@ async def check_creator(ctx):
         description=f"This Bot Was Made by Syntax-XXX a german Hobby Developer he habe this projekt for fun",
         color=discord.Color.gold()
     )
-    embed.add_field(name="🧬 https://Syntax-XXX.is-a.dev/")
+    embed.add_field(name="🧬 https://syntax-xxx.is-a.dev/", inline=False)
+    embed.add_field(name="🧬 https://github.com/Syntax-XXX/", inline=False)
     embed.set_footer(text="🧬Made By Syntax-XXX")
     await ctx.reply(embed=embed)
 
