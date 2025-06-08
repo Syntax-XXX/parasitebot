@@ -79,14 +79,14 @@ python -m venv venv
 source venv/bin/activate  # Linux/macOS
 venv\Scripts\activate     # Windows
 ```
-Install dependencies:
+2. Install dependencies:
 
 ```bash
 pip install -r requirements.txt
 Create a .env file in the project root and add your keys:
 ```
 
-Run the bot:
+3. Run the bot:
 
 ```bash
 python main.py
@@ -97,7 +97,7 @@ python main.py
 Usage
 Invite the bot to your Discord server with permissions to read/send messages and manage webhooks.
 
-Users must use clone!consent to allow their messages to be logged for AI cloning.
+Users must allow their messages to be logged for AI cloning.
 
 Change your clone style with clone!style [style].
 
