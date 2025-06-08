@@ -7,7 +7,7 @@
 
 ## info
 
-the bot will work only when he reached the message limit and then tried to clone the person. he more messages the more accurate it can get
+the bot will work only when he reached the message limit and then tries to clone the person. he more messages the more accurate it can get
 
 the bot needs permission to:
 Read Message Log in the channel
