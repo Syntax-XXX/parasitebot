@@ -60,11 +60,6 @@ This bot emphasizes **privacy** by storing all user data locally, deleting messa
 ### Requirements
 
 - Python 3.10+  
-- `discord.py` (supporting commands and UI)  
-- `openai` or Groq Python SDK  
-- `psutil`  
-- `python-dotenv` for environment variables  
-
 ### Setup
 
 1. Clone this repository:
