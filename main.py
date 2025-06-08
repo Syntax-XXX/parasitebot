@@ -75,7 +75,7 @@ async def help_command(ctx):
     )
 
     embed.set_footer(text="ParasiteBot © 2025 — Clone. Infect. Mimic.")
-    embed.set_thumbnail(url="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f9a0.gif")  # Optional: Bot logo or meme virus image
+    embed.set_thumbnail(url="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f9a0.gif")
 
     await ctx.send(embed=embed)
 
