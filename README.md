@@ -100,8 +100,6 @@ Mention the bot or interact to get AI-generated replies mimicking consenting use
 
 Use clone!infect-chain to view who cloned whom in your server.
 
-Admins can check bot and system health via clone!serv-status.
-
 Data & Privacy
 All user message data is stored locally in a JSON file (clones.json).
 
