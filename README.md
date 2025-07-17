@@ -5,6 +5,15 @@
 
 ---
 
+## info
+
+the bot will work only when he reached the message limit and then tries to clone the person. he more messages the more accurate it can get
+
+the bot needs permission to:
+Read Message Log in the channel
+To Create Webhooks
+And Send messages
+
 ## Overview
 
 ParasiteBot is a Discord bot that uses advanced AI (via Groq/OpenAI APIs) to clone users' personalities based on their message history — but only after users explicitly consent. Users can customize the style of their AI clone’s responses, control consent, and explore an infection chain that traces who cloned whom.
@@ -60,11 +69,6 @@ This bot emphasizes **privacy** by storing all user data locally, deleting messa
 ### Requirements
 
 - Python 3.10+  
-- `discord.py` (supporting commands and UI)  
-- `openai` or Groq Python SDK  
-- `psutil`  
-- `python-dotenv` for environment variables  
-
 ### Setup
 
 1. Clone this repository:
@@ -104,8 +108,6 @@ Change your clone style with clone!style [style].
 Mention the bot or interact to get AI-generated replies mimicking consenting users.
 
 Use clone!infect-chain to view who cloned whom in your server.
-
-Admins can check bot and system health via clone!serv-status.
 
 Data & Privacy
 All user message data is stored locally in a JSON file (clones.json).
