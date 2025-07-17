@@ -14,8 +14,8 @@ from discord.ui import View, Button
 load_dotenv()
 DISCORD_TOKEN = os.getenv("DISCORD_TOKEN")
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
-TARGET_CHANNEL_ID = os.getenv("TARGET_CHANNEL_ID")
-LOG_CHANNEL_ID = os.getenv("LOG_CHANNEL_ID")
+TARGET_CHANNEL_ID = 1381013877411680517
+LOG_CHANNEL_ID = 1381020299541086403
 
 client = OpenAI(
     api_key=GROQ_API_KEY,

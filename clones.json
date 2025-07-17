@@ -1,6 +1,126 @@
 {
   "970379709596729446": {
     "ACCEPTED": true,
+    "STYLE": "default",
+    "messages": [
+      {
+        "message": "schreib mal nochmal was muss testen ob es für alle user geht",
+        "timestamp": "2025-06-08T18:43:46.969889+00:00"
+      },
+      {
+        "message": "jrtzt wird geloggt",
+        "timestamp": "2025-06-08T19:00:16.491696+00:00"
+      },
+      {
+        "message": "ja",
+        "timestamp": "2025-06-08T19:00:24.837018+00:00"
+      },
+      {
+        "message": "jo",
+        "timestamp": "2025-06-08T19:00:52.081646+00:00"
+      },
+      {
+        "message": "hahahhahaha",
+        "timestamp": "2025-06-09T13:37:16.242420+00:00"
+      },
+      {
+        "message": "ps wir machen dir den UwU Style rein  der passt zu dir hahahaha",
+        "timestamp": "2025-06-09T13:37:29.574333+00:00"
+      },
+      {
+        "message": "auf Tapfertag     ich bin gerade am chillken mit nem kollege deswegen",
+        "timestamp": "2025-06-09T13:48:55.114198+00:00"
+      },
+      {
+        "message": "ahjahahh tapfertag hat zum loggen abgelelnt",
+        "timestamp": "2025-06-09T13:49:52.027518+00:00"
+      },
+      {
+        "message": "habs geendert haha",
+        "timestamp": "2025-06-09T13:50:10.054810+00:00"
+      },
+      {
+        "message": "jetzt ist nicht online",
+        "timestamp": "2025-06-09T21:17:37.687639+00:00"
+      },
+      {
+        "message": "jetzt aber nach nem bug fix",
+        "timestamp": "2025-06-09T21:30:30.640719+00:00"
+      }
+    ]
+  },
+  "1191089893569478667": {
+    "ACCEPTED": true,
+    "STYLE": "default",
+    "messages": [
+      {
+        "message": "Hi?",
+        "timestamp": "2025-06-08T19:00:06.038636+00:00"
+      },
+      {
+        "message": "Also der hat mich jetzt gefragt ob er Mützen darf",
+        "timestamp": "2025-06-08T19:00:19.717502+00:00"
+      },
+      {
+        "message": "Nutzen",
+        "timestamp": "2025-06-08T19:00:22.590437+00:00"
+      },
+      {
+        "message": "Geil",
+        "timestamp": "2025-06-08T19:00:33.397014+00:00"
+      },
+      {
+        "message": "Ich wäre aber mal wieder fix im Stream",
+        "timestamp": "2025-06-08T19:00:43.393834+00:00"
+      },
+      {
+        "message": "!style",
+        "timestamp": "2025-06-09T13:17:16.088510+00:00"
+      },
+      {
+        "message": "<@668848984248418321> hehehehe soll ich wieder nerven <:emoji_49:1373656748262690816> <:emoji_48:1373656704012652605>",
+        "timestamp": "2025-06-09T13:24:16.729181+00:00"
+      },
+      {
+        "message": "?",
+        "timestamp": "2025-06-09T13:24:20.402253+00:00"
+      },
+      {
+        "message": "Und was?",
+        "timestamp": "2025-06-09T13:40:00.912209+00:00"
+      },
+      {
+        "message": "Wem?",
+        "timestamp": "2025-06-09T13:40:08.964445+00:00"
+      },
+      {
+        "message": "?",
+        "timestamp": "2025-06-09T13:40:32.311369+00:00"
+      },
+      {
+        "message": "Okay?",
+        "timestamp": "2025-06-09T13:42:20.239360+00:00"
+      },
+      {
+        "message": "Also keine Antwort auf meine frage",
+        "timestamp": "2025-06-09T13:42:29.609615+00:00"
+      },
+      {
+        "message": "Achso",
+        "timestamp": "2025-06-09T13:49:22.952423+00:00"
+      },
+      {
+        "message": "<:Herman:1365692565243822111>",
+        "timestamp": "2025-06-09T13:50:20.964682+00:00"
+      },
+      {
+        "message": "Ok",
+        "timestamp": "2025-06-09T21:30:13.403085+00:00"
+      }
+    ]
+  },
+  "668848984248418321": {
+    "ACCEPTED": false,
     "STYLE": "default"
   }
 }
