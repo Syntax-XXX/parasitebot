@@ -74,7 +74,7 @@ This bot emphasizes **privacy** by storing all user data locally, deleting messa
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/ParasiteBot.git
+git clone https://github.com/syntax-xxx/parasitebot.git
 cd ParasiteBot
 Create and activate a Python virtual environment (recommended):
 ```
